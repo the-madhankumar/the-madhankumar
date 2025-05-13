@@ -49,7 +49,7 @@ dart,flutter,fastapi,html,css,nodejs,git,nextjs,mysql,sqlite,tensorflow,cpp,azur
 
 ## Connect with Me
 
-{"linkedin":"https://www.linkedin.com/in/madhan-kumar-m-90381a257","generic":"https://www.kaggle.com/madhankumar789","instagram":"https://www.instagram.com/the.cybersteve/"}
+<a href="https://www.linkedin.com/in/madhan-kumar-m-90381a257" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://www.kaggle.com/madhankumar789" target="_blank" rel="noopener noreferrer"><Icon /> Generic</a> | <a href="https://www.instagram.com/the.cybersteve/" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a>
 
 ## Certifications
 
