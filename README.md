@@ -47,9 +47,8 @@ dart,flutter,fastapi,html,css,nodejs,git,nextjs,mysql,sqlite,tensorflow,cpp,azur
 - Created README for [AURA](https://github.com/the-madhankumar/AURA) on **May 12, 2025**.
 - Fixed bugs and updated features in [CCSL](https://github.com/the-madhankumar/CCSL) on **May 12, 2025**.
 
-## Connect with Me
-
-<a href="https://www.linkedin.com/in/madhan-kumar-m-90381a257" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://www.kaggle.com/madhankumar789" target="_blank" rel="noopener noreferrer"><Icon /> Kaggle</a> | <a href="https://www.instagram.com/the.cybersteve/" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a>
+🌐 Connect with Me
+<div align="center"> <a href="https://www.linkedin.com/in/madhan-kumar-m-90381a257" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" /> </a> <a href="https://www.kaggle.com/madhankumar789" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" style="margin-bottom: 5px;" /> </a> <a href="https://www.instagram.com/the.cybersteve/" target="_blank"> <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" /> </a> </div>
 
 ## Certifications
 
