@@ -74,12 +74,6 @@
   </a>
 </div>
 
-<p align="center">
-  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/themadhankumarm">themadhankumarm</a><br>
-  🐦 <strong>X (Twitter):</strong> <a href="https://x.com/the_madhankumar">@the_madhankumar</a><br>
-  🎮 <strong>Discord:</strong> <code>the_madhankumar</code>
-</p>
-
 ###
 
 <div align="center">
