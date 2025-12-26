@@ -94,10 +94,10 @@ I'm a highly motivated and ambitious developer with a strong foundation in C++, 
 <br><br>
 💡 I enjoy creating innovative and efficient solutions that solve real-world problems. Whether it’s building intelligent models, crafting beautiful web interfaces, or optimizing backend performance, I’m always up for a challenge! 💻
 <br><br>
-🌟 **A Glimpse Into Me**
-<br>💼 **Current Role:** Main role in a real-time project as AI Engineer
-<br>🎓 **Education:** 3rd Year, B.Tech in Information Technology (Tamil Nadu)
-<br>📈 **Hackathon Participant** with experience in chatbot systems and BI dashboards
+🌟 *A Glimpse Into Me*
+<br>💼 *Current Role:* Main role in a real-time project as AI Engineer
+<br>🎓 *Education:* Final Year, B.Tech in Information Technology (Tamil Nadu)
+<br>📈 *Hackathon Participant* with experience in chatbot systems and BI dashboards
 </p>
 
 ---
