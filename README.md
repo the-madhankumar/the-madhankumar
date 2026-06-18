@@ -110,7 +110,7 @@
   <a href="mailto:madhankumarbusiness@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="the-madhankumar.github.io">
+  <a href="https://the-madhankumar.github.io">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
